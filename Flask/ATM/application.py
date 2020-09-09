@@ -1,4 +1,3 @@
-#K S PAVAN KRISHNA
 from flask import Flask, redirect, render_template, request, url_for, session
 import time
 import re
